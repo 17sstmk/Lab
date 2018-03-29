@@ -1,0 +1,56 @@
+<html>
+<head>
+<style>
+  html,body{  
+                height: 100%;  
+                width: 100%;  
+            }  
+   .test{
+               height:100%;
+           }
+</style>
+<body>
+
+
+<div style="background-color:#1A237E;">
+
+<div style="margin-left:1em;margin-top:1em;margin-bottom:1em;">
+
+
+<a style="font-size:1.5em">
+Share Your Travels</a>
+</br>
+<a style="font-family:san-serif">
+Let us know where you've been</a>
+
+</div>
+
+
+</div>
+
+<div style="background-color:#3F51B5;" >
+
+<div style="margin-left:1em;margin-top:0.3em;margin-bottom:0.3em;">
+
+<a style="color:#00B0FF;text-decoration: underline;">
+Description
+</a>
+
+<a style="color:#00B0FF;text-decoration: underline;margin-left:0.6em">
+Related Photos
+</a>
+
+<a style="color:#00B0FF;text-decoration: underline;margin-left:0.6em">
+Reviews
+</a>
+
+</div>
+
+</div>
+
+
+
+
+</body>
+</head>
+</html>
